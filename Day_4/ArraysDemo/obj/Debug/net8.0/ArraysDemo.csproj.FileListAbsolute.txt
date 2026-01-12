@@ -1,0 +1,14 @@
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/ArraysDemo/bin/Debug/net8.0/ArraysDemo
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/ArraysDemo/bin/Debug/net8.0/ArraysDemo.deps.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/ArraysDemo/bin/Debug/net8.0/ArraysDemo.runtimeconfig.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/ArraysDemo/bin/Debug/net8.0/ArraysDemo.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/ArraysDemo/bin/Debug/net8.0/ArraysDemo.pdb
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/ArraysDemo/obj/Debug/net8.0/ArraysDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/ArraysDemo/obj/Debug/net8.0/ArraysDemo.AssemblyInfoInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/ArraysDemo/obj/Debug/net8.0/ArraysDemo.AssemblyInfo.cs
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/ArraysDemo/obj/Debug/net8.0/ArraysDemo.csproj.CoreCompileInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/ArraysDemo/obj/Debug/net8.0/ArraysDemo.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/ArraysDemo/obj/Debug/net8.0/refint/ArraysDemo.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/ArraysDemo/obj/Debug/net8.0/ArraysDemo.pdb
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/ArraysDemo/obj/Debug/net8.0/ArraysDemo.genruntimeconfig.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/ArraysDemo/obj/Debug/net8.0/ref/ArraysDemo.dll

@@ -1,0 +1,14 @@
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/IfDemo/bin/Debug/net10.0/IfDemo
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/IfDemo/bin/Debug/net10.0/IfDemo.deps.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/IfDemo/bin/Debug/net10.0/IfDemo.runtimeconfig.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/IfDemo/bin/Debug/net10.0/IfDemo.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/IfDemo/bin/Debug/net10.0/IfDemo.pdb
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/IfDemo/obj/Debug/net10.0/IfDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/IfDemo/obj/Debug/net10.0/IfDemo.AssemblyInfoInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/IfDemo/obj/Debug/net10.0/IfDemo.AssemblyInfo.cs
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/IfDemo/obj/Debug/net10.0/IfDemo.csproj.CoreCompileInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/IfDemo/obj/Debug/net10.0/IfDemo.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/IfDemo/obj/Debug/net10.0/refint/IfDemo.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/IfDemo/obj/Debug/net10.0/IfDemo.pdb
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/IfDemo/obj/Debug/net10.0/IfDemo.genruntimeconfig.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/IfDemo/obj/Debug/net10.0/ref/IfDemo.dll

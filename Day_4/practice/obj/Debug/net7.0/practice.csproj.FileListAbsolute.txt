@@ -1,0 +1,14 @@
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/practice/bin/Debug/net7.0/practice
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/practice/bin/Debug/net7.0/practice.deps.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/practice/bin/Debug/net7.0/practice.runtimeconfig.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/practice/bin/Debug/net7.0/practice.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/practice/bin/Debug/net7.0/practice.pdb
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/practice/obj/Debug/net7.0/practice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/practice/obj/Debug/net7.0/practice.AssemblyInfoInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/practice/obj/Debug/net7.0/practice.AssemblyInfo.cs
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/practice/obj/Debug/net7.0/practice.csproj.CoreCompileInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/practice/obj/Debug/net7.0/practice.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/practice/obj/Debug/net7.0/refint/practice.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/practice/obj/Debug/net7.0/practice.pdb
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/practice/obj/Debug/net7.0/practice.genruntimeconfig.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/practice/obj/Debug/net7.0/ref/practice.dll

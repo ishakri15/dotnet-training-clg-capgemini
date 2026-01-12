@@ -1,0 +1,14 @@
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/switchDemo/bin/Debug/net10.0/switchDemo
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/switchDemo/bin/Debug/net10.0/switchDemo.deps.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/switchDemo/bin/Debug/net10.0/switchDemo.runtimeconfig.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/switchDemo/bin/Debug/net10.0/switchDemo.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/switchDemo/bin/Debug/net10.0/switchDemo.pdb
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/switchDemo/obj/Debug/net10.0/switchDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/switchDemo/obj/Debug/net10.0/switchDemo.AssemblyInfoInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/switchDemo/obj/Debug/net10.0/switchDemo.AssemblyInfo.cs
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/switchDemo/obj/Debug/net10.0/switchDemo.csproj.CoreCompileInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/switchDemo/obj/Debug/net10.0/switchDemo.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/switchDemo/obj/Debug/net10.0/refint/switchDemo.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/switchDemo/obj/Debug/net10.0/switchDemo.pdb
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/switchDemo/obj/Debug/net10.0/switchDemo.genruntimeconfig.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/switchDemo/obj/Debug/net10.0/ref/switchDemo.dll

@@ -1,0 +1,14 @@
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/StringIBuiltFunctions/bin/Debug/net10.0/StringIBuiltFunctions
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/StringIBuiltFunctions/bin/Debug/net10.0/StringIBuiltFunctions.deps.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/StringIBuiltFunctions/bin/Debug/net10.0/StringIBuiltFunctions.runtimeconfig.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/StringIBuiltFunctions/bin/Debug/net10.0/StringIBuiltFunctions.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/StringIBuiltFunctions/bin/Debug/net10.0/StringIBuiltFunctions.pdb
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/StringIBuiltFunctions/obj/Debug/net10.0/StringIBuiltFunctions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/StringIBuiltFunctions/obj/Debug/net10.0/StringIBuiltFunctions.AssemblyInfoInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/StringIBuiltFunctions/obj/Debug/net10.0/StringIBuiltFunctions.AssemblyInfo.cs
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/StringIBuiltFunctions/obj/Debug/net10.0/StringIBuiltFunctions.csproj.CoreCompileInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/StringIBuiltFunctions/obj/Debug/net10.0/StringIBuiltFunctions.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/StringIBuiltFunctions/obj/Debug/net10.0/refint/StringIBuiltFunctions.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/StringIBuiltFunctions/obj/Debug/net10.0/StringIBuiltFunctions.pdb
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/StringIBuiltFunctions/obj/Debug/net10.0/StringIBuiltFunctions.genruntimeconfig.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/StringIBuiltFunctions/obj/Debug/net10.0/ref/StringIBuiltFunctions.dll

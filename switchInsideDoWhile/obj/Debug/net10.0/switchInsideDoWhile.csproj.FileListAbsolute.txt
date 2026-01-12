@@ -1,0 +1,14 @@
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/switchInsideDoWhile/bin/Debug/net10.0/switchInsideDoWhile
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/switchInsideDoWhile/bin/Debug/net10.0/switchInsideDoWhile.deps.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/switchInsideDoWhile/bin/Debug/net10.0/switchInsideDoWhile.runtimeconfig.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/switchInsideDoWhile/bin/Debug/net10.0/switchInsideDoWhile.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/switchInsideDoWhile/bin/Debug/net10.0/switchInsideDoWhile.pdb
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/switchInsideDoWhile/obj/Debug/net10.0/switchInsideDoWhile.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/switchInsideDoWhile/obj/Debug/net10.0/switchInsideDoWhile.AssemblyInfoInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/switchInsideDoWhile/obj/Debug/net10.0/switchInsideDoWhile.AssemblyInfo.cs
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/switchInsideDoWhile/obj/Debug/net10.0/switchInsideDoWhile.csproj.CoreCompileInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/switchInsideDoWhile/obj/Debug/net10.0/switchInsideDoWhile.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/switchInsideDoWhile/obj/Debug/net10.0/refint/switchInsideDoWhile.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/switchInsideDoWhile/obj/Debug/net10.0/switchInsideDoWhile.pdb
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/switchInsideDoWhile/obj/Debug/net10.0/switchInsideDoWhile.genruntimeconfig.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/switchInsideDoWhile/obj/Debug/net10.0/ref/switchInsideDoWhile.dll

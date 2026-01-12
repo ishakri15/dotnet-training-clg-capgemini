@@ -1,0 +1,19 @@
+{
+  "FilePath": "/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_3/middleware/middleware.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-3.0",
+    "LanguageVersion": "6.0",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-3.0"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 1000
+  },
+  "RootNamespace": "middleware",
+  "Documents": [],
+  "SerializationFormat": "0.2"
+}

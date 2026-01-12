@@ -1,0 +1,14 @@
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/boxingUnboxingDemo/bin/Debug/net8.0/boxingUnboxingDemo
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/boxingUnboxingDemo/bin/Debug/net8.0/boxingUnboxingDemo.deps.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/boxingUnboxingDemo/bin/Debug/net8.0/boxingUnboxingDemo.runtimeconfig.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/boxingUnboxingDemo/bin/Debug/net8.0/boxingUnboxingDemo.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/boxingUnboxingDemo/bin/Debug/net8.0/boxingUnboxingDemo.pdb
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/boxingUnboxingDemo/obj/Debug/net8.0/boxingUnboxingDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/boxingUnboxingDemo/obj/Debug/net8.0/boxingUnboxingDemo.AssemblyInfoInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/boxingUnboxingDemo/obj/Debug/net8.0/boxingUnboxingDemo.AssemblyInfo.cs
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/boxingUnboxingDemo/obj/Debug/net8.0/boxingUnboxingDemo.csproj.CoreCompileInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/boxingUnboxingDemo/obj/Debug/net8.0/boxingUnboxingDemo.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/boxingUnboxingDemo/obj/Debug/net8.0/refint/boxingUnboxingDemo.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/boxingUnboxingDemo/obj/Debug/net8.0/boxingUnboxingDemo.pdb
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/boxingUnboxingDemo/obj/Debug/net8.0/boxingUnboxingDemo.genruntimeconfig.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/boxingUnboxingDemo/obj/Debug/net8.0/ref/boxingUnboxingDemo.dll

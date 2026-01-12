@@ -1,0 +1,14 @@
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_5/stringBuilder/bin/Debug/net8.0/stringBuilder
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_5/stringBuilder/bin/Debug/net8.0/stringBuilder.deps.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_5/stringBuilder/bin/Debug/net8.0/stringBuilder.runtimeconfig.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_5/stringBuilder/bin/Debug/net8.0/stringBuilder.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_5/stringBuilder/bin/Debug/net8.0/stringBuilder.pdb
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_5/stringBuilder/obj/Debug/net8.0/stringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_5/stringBuilder/obj/Debug/net8.0/stringBuilder.AssemblyInfoInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_5/stringBuilder/obj/Debug/net8.0/stringBuilder.AssemblyInfo.cs
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_5/stringBuilder/obj/Debug/net8.0/stringBuilder.csproj.CoreCompileInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_5/stringBuilder/obj/Debug/net8.0/stringBuilder.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_5/stringBuilder/obj/Debug/net8.0/refint/stringBuilder.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_5/stringBuilder/obj/Debug/net8.0/stringBuilder.pdb
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_5/stringBuilder/obj/Debug/net8.0/stringBuilder.genruntimeconfig.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_5/stringBuilder/obj/Debug/net8.0/ref/stringBuilder.dll

@@ -1,0 +1,14 @@
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/staticFunctionDemo/bin/Debug/net10.0/staticFunctionDemo
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/staticFunctionDemo/bin/Debug/net10.0/staticFunctionDemo.deps.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/staticFunctionDemo/bin/Debug/net10.0/staticFunctionDemo.runtimeconfig.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/staticFunctionDemo/bin/Debug/net10.0/staticFunctionDemo.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/staticFunctionDemo/bin/Debug/net10.0/staticFunctionDemo.pdb
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/staticFunctionDemo/obj/Debug/net10.0/staticFunctionDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/staticFunctionDemo/obj/Debug/net10.0/staticFunctionDemo.AssemblyInfoInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/staticFunctionDemo/obj/Debug/net10.0/staticFunctionDemo.AssemblyInfo.cs
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/staticFunctionDemo/obj/Debug/net10.0/staticFunctionDemo.csproj.CoreCompileInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/staticFunctionDemo/obj/Debug/net10.0/staticFunctionDemo.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/staticFunctionDemo/obj/Debug/net10.0/refint/staticFunctionDemo.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/staticFunctionDemo/obj/Debug/net10.0/staticFunctionDemo.pdb
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/staticFunctionDemo/obj/Debug/net10.0/staticFunctionDemo.genruntimeconfig.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/staticFunctionDemo/obj/Debug/net10.0/ref/staticFunctionDemo.dll

@@ -1,0 +1,14 @@
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/nestedif/bin/Debug/net10.0/nestedif
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/nestedif/bin/Debug/net10.0/nestedif.deps.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/nestedif/bin/Debug/net10.0/nestedif.runtimeconfig.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/nestedif/bin/Debug/net10.0/nestedif.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/nestedif/bin/Debug/net10.0/nestedif.pdb
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/nestedif/obj/Debug/net10.0/nestedif.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/nestedif/obj/Debug/net10.0/nestedif.AssemblyInfoInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/nestedif/obj/Debug/net10.0/nestedif.AssemblyInfo.cs
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/nestedif/obj/Debug/net10.0/nestedif.csproj.CoreCompileInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/nestedif/obj/Debug/net10.0/nestedif.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/nestedif/obj/Debug/net10.0/refint/nestedif.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/nestedif/obj/Debug/net10.0/nestedif.pdb
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/nestedif/obj/Debug/net10.0/nestedif.genruntimeconfig.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/nestedif/obj/Debug/net10.0/ref/nestedif.dll

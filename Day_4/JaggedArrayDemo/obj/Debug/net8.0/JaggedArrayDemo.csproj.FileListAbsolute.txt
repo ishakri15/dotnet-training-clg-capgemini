@@ -1,0 +1,14 @@
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/JaggedArrayDemo/bin/Debug/net8.0/JaggedArrayDemo
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/JaggedArrayDemo/bin/Debug/net8.0/JaggedArrayDemo.deps.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/JaggedArrayDemo/bin/Debug/net8.0/JaggedArrayDemo.runtimeconfig.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/JaggedArrayDemo/bin/Debug/net8.0/JaggedArrayDemo.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/JaggedArrayDemo/bin/Debug/net8.0/JaggedArrayDemo.pdb
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/JaggedArrayDemo/obj/Debug/net8.0/JaggedArrayDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/JaggedArrayDemo/obj/Debug/net8.0/JaggedArrayDemo.AssemblyInfoInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/JaggedArrayDemo/obj/Debug/net8.0/JaggedArrayDemo.AssemblyInfo.cs
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/JaggedArrayDemo/obj/Debug/net8.0/JaggedArrayDemo.csproj.CoreCompileInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/JaggedArrayDemo/obj/Debug/net8.0/JaggedArrayDemo.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/JaggedArrayDemo/obj/Debug/net8.0/refint/JaggedArrayDemo.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/JaggedArrayDemo/obj/Debug/net8.0/JaggedArrayDemo.pdb
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/JaggedArrayDemo/obj/Debug/net8.0/JaggedArrayDemo.genruntimeconfig.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/JaggedArrayDemo/obj/Debug/net8.0/ref/JaggedArrayDemo.dll

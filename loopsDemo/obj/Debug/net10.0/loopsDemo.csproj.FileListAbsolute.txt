@@ -1,0 +1,14 @@
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/loopsDemo/bin/Debug/net10.0/loopsDemo
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/loopsDemo/bin/Debug/net10.0/loopsDemo.deps.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/loopsDemo/bin/Debug/net10.0/loopsDemo.runtimeconfig.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/loopsDemo/bin/Debug/net10.0/loopsDemo.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/loopsDemo/bin/Debug/net10.0/loopsDemo.pdb
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/loopsDemo/obj/Debug/net10.0/loopsDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/loopsDemo/obj/Debug/net10.0/loopsDemo.AssemblyInfoInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/loopsDemo/obj/Debug/net10.0/loopsDemo.AssemblyInfo.cs
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/loopsDemo/obj/Debug/net10.0/loopsDemo.csproj.CoreCompileInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/loopsDemo/obj/Debug/net10.0/loopsDemo.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/loopsDemo/obj/Debug/net10.0/refint/loopsDemo.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/loopsDemo/obj/Debug/net10.0/loopsDemo.pdb
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/loopsDemo/obj/Debug/net10.0/loopsDemo.genruntimeconfig.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/loopsDemo/obj/Debug/net10.0/ref/loopsDemo.dll

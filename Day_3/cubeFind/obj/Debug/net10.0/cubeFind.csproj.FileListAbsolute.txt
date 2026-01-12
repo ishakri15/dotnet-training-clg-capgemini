@@ -1,0 +1,11 @@
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_3/cubeFind/bin/Debug/net10.0/cubeFind.deps.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_3/cubeFind/bin/Debug/net10.0/cubeFind.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_3/cubeFind/bin/Debug/net10.0/cubeFind.pdb
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_3/cubeFind/obj/Debug/net10.0/cubeFind.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_3/cubeFind/obj/Debug/net10.0/cubeFind.AssemblyInfoInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_3/cubeFind/obj/Debug/net10.0/cubeFind.AssemblyInfo.cs
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_3/cubeFind/obj/Debug/net10.0/cubeFind.csproj.CoreCompileInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_3/cubeFind/obj/Debug/net10.0/cubeFind.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_3/cubeFind/obj/Debug/net10.0/refint/cubeFind.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_3/cubeFind/obj/Debug/net10.0/cubeFind.pdb
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_3/cubeFind/obj/Debug/net10.0/ref/cubeFind.dll

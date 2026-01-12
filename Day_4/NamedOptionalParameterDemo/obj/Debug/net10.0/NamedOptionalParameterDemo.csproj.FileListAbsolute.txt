@@ -1,0 +1,14 @@
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/NamedOptionalParameterDemo/bin/Debug/net10.0/NamedOptionalParameterDemo
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/NamedOptionalParameterDemo/bin/Debug/net10.0/NamedOptionalParameterDemo.deps.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/NamedOptionalParameterDemo/bin/Debug/net10.0/NamedOptionalParameterDemo.runtimeconfig.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/NamedOptionalParameterDemo/bin/Debug/net10.0/NamedOptionalParameterDemo.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/NamedOptionalParameterDemo/bin/Debug/net10.0/NamedOptionalParameterDemo.pdb
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/NamedOptionalParameterDemo/obj/Debug/net10.0/NamedOptionalParameterDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/NamedOptionalParameterDemo/obj/Debug/net10.0/NamedOptionalParameterDemo.AssemblyInfoInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/NamedOptionalParameterDemo/obj/Debug/net10.0/NamedOptionalParameterDemo.AssemblyInfo.cs
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/NamedOptionalParameterDemo/obj/Debug/net10.0/NamedOptionalParameterDemo.csproj.CoreCompileInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/NamedOptionalParameterDemo/obj/Debug/net10.0/NamedOptionalParameterDemo.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/NamedOptionalParameterDemo/obj/Debug/net10.0/refint/NamedOptionalParameterDemo.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/NamedOptionalParameterDemo/obj/Debug/net10.0/NamedOptionalParameterDemo.pdb
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/NamedOptionalParameterDemo/obj/Debug/net10.0/NamedOptionalParameterDemo.genruntimeconfig.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/NamedOptionalParameterDemo/obj/Debug/net10.0/ref/NamedOptionalParameterDemo.dll

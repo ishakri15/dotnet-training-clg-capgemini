@@ -1,0 +1,14 @@
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/mac_code_day2/classobjectdemo/bin/Debug/net8.0-windows/classobjectdemo
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/mac_code_day2/classobjectdemo/bin/Debug/net8.0-windows/classobjectdemo.deps.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/mac_code_day2/classobjectdemo/bin/Debug/net8.0-windows/classobjectdemo.runtimeconfig.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/mac_code_day2/classobjectdemo/bin/Debug/net8.0-windows/classobjectdemo.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/mac_code_day2/classobjectdemo/bin/Debug/net8.0-windows/classobjectdemo.pdb
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/mac_code_day2/classobjectdemo/obj/Debug/net8.0-windows/classobjectdemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/mac_code_day2/classobjectdemo/obj/Debug/net8.0-windows/classobjectdemo.AssemblyInfoInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/mac_code_day2/classobjectdemo/obj/Debug/net8.0-windows/classobjectdemo.AssemblyInfo.cs
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/mac_code_day2/classobjectdemo/obj/Debug/net8.0-windows/classobjectdemo.csproj.CoreCompileInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/mac_code_day2/classobjectdemo/obj/Debug/net8.0-windows/classobjectdemo.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/mac_code_day2/classobjectdemo/obj/Debug/net8.0-windows/refint/classobjectdemo.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/mac_code_day2/classobjectdemo/obj/Debug/net8.0-windows/classobjectdemo.pdb
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/mac_code_day2/classobjectdemo/obj/Debug/net8.0-windows/classobjectdemo.genruntimeconfig.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/mac_code_day2/classobjectdemo/obj/Debug/net8.0-windows/ref/classobjectdemo.dll

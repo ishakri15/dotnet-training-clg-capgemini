@@ -1,0 +1,14 @@
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_6/ExceptionConsoledemo/bin/Debug/net8.0/ExceptionConsoledemo
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_6/ExceptionConsoledemo/bin/Debug/net8.0/ExceptionConsoledemo.deps.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_6/ExceptionConsoledemo/bin/Debug/net8.0/ExceptionConsoledemo.runtimeconfig.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_6/ExceptionConsoledemo/bin/Debug/net8.0/ExceptionConsoledemo.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_6/ExceptionConsoledemo/bin/Debug/net8.0/ExceptionConsoledemo.pdb
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_6/ExceptionConsoledemo/obj/Debug/net8.0/ExceptionConsoledemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_6/ExceptionConsoledemo/obj/Debug/net8.0/ExceptionConsoledemo.AssemblyInfoInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_6/ExceptionConsoledemo/obj/Debug/net8.0/ExceptionConsoledemo.AssemblyInfo.cs
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_6/ExceptionConsoledemo/obj/Debug/net8.0/ExceptionConsoledemo.csproj.CoreCompileInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_6/ExceptionConsoledemo/obj/Debug/net8.0/ExceptionConsoledemo.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_6/ExceptionConsoledemo/obj/Debug/net8.0/refint/ExceptionConsoledemo.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_6/ExceptionConsoledemo/obj/Debug/net8.0/ExceptionConsoledemo.pdb
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_6/ExceptionConsoledemo/obj/Debug/net8.0/ExceptionConsoledemo.genruntimeconfig.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_6/ExceptionConsoledemo/obj/Debug/net8.0/ref/ExceptionConsoledemo.dll

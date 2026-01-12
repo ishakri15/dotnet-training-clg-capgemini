@@ -1,0 +1,14 @@
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_3/refOutDemo/bin/Debug/net10.0/refOutDemo
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_3/refOutDemo/bin/Debug/net10.0/refOutDemo.deps.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_3/refOutDemo/bin/Debug/net10.0/refOutDemo.runtimeconfig.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_3/refOutDemo/bin/Debug/net10.0/refOutDemo.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_3/refOutDemo/bin/Debug/net10.0/refOutDemo.pdb
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_3/refOutDemo/obj/Debug/net10.0/refOutDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_3/refOutDemo/obj/Debug/net10.0/refOutDemo.AssemblyInfoInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_3/refOutDemo/obj/Debug/net10.0/refOutDemo.AssemblyInfo.cs
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_3/refOutDemo/obj/Debug/net10.0/refOutDemo.csproj.CoreCompileInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_3/refOutDemo/obj/Debug/net10.0/refOutDemo.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_3/refOutDemo/obj/Debug/net10.0/refint/refOutDemo.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_3/refOutDemo/obj/Debug/net10.0/refOutDemo.pdb
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_3/refOutDemo/obj/Debug/net10.0/refOutDemo.genruntimeconfig.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_3/refOutDemo/obj/Debug/net10.0/ref/refOutDemo.dll

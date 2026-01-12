@@ -1,0 +1,14 @@
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/TwoDArraysDemo/bin/Debug/net10.0/TwoDArraysDemo
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/TwoDArraysDemo/bin/Debug/net10.0/TwoDArraysDemo.deps.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/TwoDArraysDemo/bin/Debug/net10.0/TwoDArraysDemo.runtimeconfig.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/TwoDArraysDemo/bin/Debug/net10.0/TwoDArraysDemo.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/TwoDArraysDemo/bin/Debug/net10.0/TwoDArraysDemo.pdb
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/TwoDArraysDemo/obj/Debug/net10.0/TwoDArraysDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/TwoDArraysDemo/obj/Debug/net10.0/TwoDArraysDemo.AssemblyInfoInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/TwoDArraysDemo/obj/Debug/net10.0/TwoDArraysDemo.AssemblyInfo.cs
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/TwoDArraysDemo/obj/Debug/net10.0/TwoDArraysDemo.csproj.CoreCompileInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/TwoDArraysDemo/obj/Debug/net10.0/TwoDArraysDemo.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/TwoDArraysDemo/obj/Debug/net10.0/refint/TwoDArraysDemo.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/TwoDArraysDemo/obj/Debug/net10.0/TwoDArraysDemo.pdb
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/TwoDArraysDemo/obj/Debug/net10.0/TwoDArraysDemo.genruntimeconfig.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/TwoDArraysDemo/obj/Debug/net10.0/ref/TwoDArraysDemo.dll

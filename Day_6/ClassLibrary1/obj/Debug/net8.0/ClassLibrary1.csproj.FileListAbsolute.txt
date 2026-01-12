@@ -1,0 +1,11 @@
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_6/ClassLibrary1/bin/Debug/net8.0/ClassLibrary1.deps.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_6/ClassLibrary1/bin/Debug/net8.0/ClassLibrary1.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_6/ClassLibrary1/bin/Debug/net8.0/ClassLibrary1.pdb
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_6/ClassLibrary1/obj/Debug/net8.0/ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_6/ClassLibrary1/obj/Debug/net8.0/ClassLibrary1.AssemblyInfoInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_6/ClassLibrary1/obj/Debug/net8.0/ClassLibrary1.AssemblyInfo.cs
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_6/ClassLibrary1/obj/Debug/net8.0/ClassLibrary1.csproj.CoreCompileInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_6/ClassLibrary1/obj/Debug/net8.0/ClassLibrary1.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_6/ClassLibrary1/obj/Debug/net8.0/refint/ClassLibrary1.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_6/ClassLibrary1/obj/Debug/net8.0/ClassLibrary1.pdb
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_6/ClassLibrary1/obj/Debug/net8.0/ref/ClassLibrary1.dll

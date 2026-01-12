@@ -1,0 +1,14 @@
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/varAndDynamicDemo/bin/Debug/net10.0/varAndDynamicDemo
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/varAndDynamicDemo/bin/Debug/net10.0/varAndDynamicDemo.deps.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/varAndDynamicDemo/bin/Debug/net10.0/varAndDynamicDemo.runtimeconfig.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/varAndDynamicDemo/bin/Debug/net10.0/varAndDynamicDemo.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/varAndDynamicDemo/bin/Debug/net10.0/varAndDynamicDemo.pdb
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/varAndDynamicDemo/obj/Debug/net10.0/varAndDynamicDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/varAndDynamicDemo/obj/Debug/net10.0/varAndDynamicDemo.AssemblyInfoInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/varAndDynamicDemo/obj/Debug/net10.0/varAndDynamicDemo.AssemblyInfo.cs
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/varAndDynamicDemo/obj/Debug/net10.0/varAndDynamicDemo.csproj.CoreCompileInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/varAndDynamicDemo/obj/Debug/net10.0/varAndDynamicDemo.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/varAndDynamicDemo/obj/Debug/net10.0/refint/varAndDynamicDemo.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/varAndDynamicDemo/obj/Debug/net10.0/varAndDynamicDemo.pdb
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/varAndDynamicDemo/obj/Debug/net10.0/varAndDynamicDemo.genruntimeconfig.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_4/varAndDynamicDemo/obj/Debug/net10.0/ref/varAndDynamicDemo.dll

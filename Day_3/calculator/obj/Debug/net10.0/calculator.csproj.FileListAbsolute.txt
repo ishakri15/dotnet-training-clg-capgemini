@@ -1,0 +1,11 @@
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_3/calculator/bin/Debug/net10.0/calculator.deps.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_3/calculator/bin/Debug/net10.0/calculator.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_3/calculator/bin/Debug/net10.0/calculator.pdb
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_3/calculator/obj/Debug/net10.0/calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_3/calculator/obj/Debug/net10.0/calculator.AssemblyInfoInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_3/calculator/obj/Debug/net10.0/calculator.AssemblyInfo.cs
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_3/calculator/obj/Debug/net10.0/calculator.csproj.CoreCompileInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_3/calculator/obj/Debug/net10.0/calculator.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_3/calculator/obj/Debug/net10.0/refint/calculator.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_3/calculator/obj/Debug/net10.0/calculator.pdb
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_3/calculator/obj/Debug/net10.0/ref/calculator.dll

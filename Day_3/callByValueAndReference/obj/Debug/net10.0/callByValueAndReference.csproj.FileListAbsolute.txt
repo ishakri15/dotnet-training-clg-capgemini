@@ -1,0 +1,14 @@
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_3/callByValueAndReference/bin/Debug/net10.0/callByValueAndReference
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_3/callByValueAndReference/bin/Debug/net10.0/callByValueAndReference.deps.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_3/callByValueAndReference/bin/Debug/net10.0/callByValueAndReference.runtimeconfig.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_3/callByValueAndReference/bin/Debug/net10.0/callByValueAndReference.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_3/callByValueAndReference/bin/Debug/net10.0/callByValueAndReference.pdb
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_3/callByValueAndReference/obj/Debug/net10.0/callByValueAndReference.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_3/callByValueAndReference/obj/Debug/net10.0/callByValueAndReference.AssemblyInfoInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_3/callByValueAndReference/obj/Debug/net10.0/callByValueAndReference.AssemblyInfo.cs
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_3/callByValueAndReference/obj/Debug/net10.0/callByValueAndReference.csproj.CoreCompileInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_3/callByValueAndReference/obj/Debug/net10.0/callByValueAndReference.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_3/callByValueAndReference/obj/Debug/net10.0/refint/callByValueAndReference.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_3/callByValueAndReference/obj/Debug/net10.0/callByValueAndReference.pdb
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_3/callByValueAndReference/obj/Debug/net10.0/callByValueAndReference.genruntimeconfig.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_3/callByValueAndReference/obj/Debug/net10.0/ref/callByValueAndReference.dll

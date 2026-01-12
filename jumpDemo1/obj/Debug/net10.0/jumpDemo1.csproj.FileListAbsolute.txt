@@ -1,0 +1,14 @@
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/jumpDemo1/bin/Debug/net10.0/jumpDemo1
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/jumpDemo1/bin/Debug/net10.0/jumpDemo1.deps.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/jumpDemo1/bin/Debug/net10.0/jumpDemo1.runtimeconfig.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/jumpDemo1/bin/Debug/net10.0/jumpDemo1.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/jumpDemo1/bin/Debug/net10.0/jumpDemo1.pdb
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/jumpDemo1/obj/Debug/net10.0/jumpDemo1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/jumpDemo1/obj/Debug/net10.0/jumpDemo1.AssemblyInfoInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/jumpDemo1/obj/Debug/net10.0/jumpDemo1.AssemblyInfo.cs
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/jumpDemo1/obj/Debug/net10.0/jumpDemo1.csproj.CoreCompileInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/jumpDemo1/obj/Debug/net10.0/jumpDemo1.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/jumpDemo1/obj/Debug/net10.0/refint/jumpDemo1.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/jumpDemo1/obj/Debug/net10.0/jumpDemo1.pdb
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/jumpDemo1/obj/Debug/net10.0/jumpDemo1.genruntimeconfig.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/jumpDemo1/obj/Debug/net10.0/ref/jumpDemo1.dll
