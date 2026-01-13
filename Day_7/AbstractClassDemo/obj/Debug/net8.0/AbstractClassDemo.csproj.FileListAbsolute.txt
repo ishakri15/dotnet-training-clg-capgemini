@@ -1,0 +1,15 @@
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_7/AbstractClassDemo/bin/Debug/net8.0/AbstractClassDemo
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_7/AbstractClassDemo/bin/Debug/net8.0/AbstractClassDemo.deps.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_7/AbstractClassDemo/bin/Debug/net8.0/AbstractClassDemo.runtimeconfig.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_7/AbstractClassDemo/bin/Debug/net8.0/AbstractClassDemo.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_7/AbstractClassDemo/bin/Debug/net8.0/AbstractClassDemo.pdb
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_7/AbstractClassDemo/obj/Debug/net8.0/AbstractClassDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_7/AbstractClassDemo/obj/Debug/net8.0/AbstractClassDemo.AssemblyInfoInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_7/AbstractClassDemo/obj/Debug/net8.0/AbstractClassDemo.AssemblyInfo.cs
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_7/AbstractClassDemo/obj/Debug/net8.0/AbstractClassDemo.csproj.CoreCompileInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_7/AbstractClassDemo/obj/Debug/net8.0/AbstractClassDemo.sourcelink.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_7/AbstractClassDemo/obj/Debug/net8.0/AbstractClassDemo.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_7/AbstractClassDemo/obj/Debug/net8.0/refint/AbstractClassDemo.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_7/AbstractClassDemo/obj/Debug/net8.0/AbstractClassDemo.pdb
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_7/AbstractClassDemo/obj/Debug/net8.0/AbstractClassDemo.genruntimeconfig.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_7/AbstractClassDemo/obj/Debug/net8.0/ref/AbstractClassDemo.dll

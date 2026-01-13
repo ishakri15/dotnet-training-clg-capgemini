@@ -1,0 +1,15 @@
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_7/InheritanceDemo/bin/Debug/net8.0/InheritanceDemo
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_7/InheritanceDemo/bin/Debug/net8.0/InheritanceDemo.deps.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_7/InheritanceDemo/bin/Debug/net8.0/InheritanceDemo.runtimeconfig.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_7/InheritanceDemo/bin/Debug/net8.0/InheritanceDemo.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_7/InheritanceDemo/bin/Debug/net8.0/InheritanceDemo.pdb
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_7/InheritanceDemo/obj/Debug/net8.0/InheritanceDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_7/InheritanceDemo/obj/Debug/net8.0/InheritanceDemo.AssemblyInfoInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_7/InheritanceDemo/obj/Debug/net8.0/InheritanceDemo.AssemblyInfo.cs
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_7/InheritanceDemo/obj/Debug/net8.0/InheritanceDemo.csproj.CoreCompileInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_7/InheritanceDemo/obj/Debug/net8.0/InheritanceDemo.sourcelink.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_7/InheritanceDemo/obj/Debug/net8.0/InheritanceDemo.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_7/InheritanceDemo/obj/Debug/net8.0/refint/InheritanceDemo.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_7/InheritanceDemo/obj/Debug/net8.0/InheritanceDemo.pdb
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_7/InheritanceDemo/obj/Debug/net8.0/InheritanceDemo.genruntimeconfig.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_7/InheritanceDemo/obj/Debug/net8.0/ref/InheritanceDemo.dll

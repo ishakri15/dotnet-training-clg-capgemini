@@ -1,0 +1,15 @@
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_7/VirtuaFunctions/bin/Debug/net8.0/VirtuaFunctions
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_7/VirtuaFunctions/bin/Debug/net8.0/VirtuaFunctions.deps.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_7/VirtuaFunctions/bin/Debug/net8.0/VirtuaFunctions.runtimeconfig.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_7/VirtuaFunctions/bin/Debug/net8.0/VirtuaFunctions.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_7/VirtuaFunctions/bin/Debug/net8.0/VirtuaFunctions.pdb
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_7/VirtuaFunctions/obj/Debug/net8.0/VirtuaFunctions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_7/VirtuaFunctions/obj/Debug/net8.0/VirtuaFunctions.AssemblyInfoInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_7/VirtuaFunctions/obj/Debug/net8.0/VirtuaFunctions.AssemblyInfo.cs
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_7/VirtuaFunctions/obj/Debug/net8.0/VirtuaFunctions.csproj.CoreCompileInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_7/VirtuaFunctions/obj/Debug/net8.0/VirtuaFunctions.sourcelink.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_7/VirtuaFunctions/obj/Debug/net8.0/VirtuaFunctions.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_7/VirtuaFunctions/obj/Debug/net8.0/refint/VirtuaFunctions.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_7/VirtuaFunctions/obj/Debug/net8.0/VirtuaFunctions.pdb
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_7/VirtuaFunctions/obj/Debug/net8.0/VirtuaFunctions.genruntimeconfig.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_7/VirtuaFunctions/obj/Debug/net8.0/ref/VirtuaFunctions.dll
