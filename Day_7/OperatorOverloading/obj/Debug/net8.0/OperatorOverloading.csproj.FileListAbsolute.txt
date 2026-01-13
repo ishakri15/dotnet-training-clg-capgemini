@@ -1,0 +1,15 @@
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_7/OperatorOverloading/bin/Debug/net8.0/OperatorOverloading
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_7/OperatorOverloading/bin/Debug/net8.0/OperatorOverloading.deps.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_7/OperatorOverloading/bin/Debug/net8.0/OperatorOverloading.runtimeconfig.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_7/OperatorOverloading/bin/Debug/net8.0/OperatorOverloading.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_7/OperatorOverloading/bin/Debug/net8.0/OperatorOverloading.pdb
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_7/OperatorOverloading/obj/Debug/net8.0/OperatorOverloading.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_7/OperatorOverloading/obj/Debug/net8.0/OperatorOverloading.AssemblyInfoInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_7/OperatorOverloading/obj/Debug/net8.0/OperatorOverloading.AssemblyInfo.cs
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_7/OperatorOverloading/obj/Debug/net8.0/OperatorOverloading.csproj.CoreCompileInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_7/OperatorOverloading/obj/Debug/net8.0/OperatorOverloading.sourcelink.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_7/OperatorOverloading/obj/Debug/net8.0/OperatorOverloading.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_7/OperatorOverloading/obj/Debug/net8.0/refint/OperatorOverloading.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_7/OperatorOverloading/obj/Debug/net8.0/OperatorOverloading.pdb
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_7/OperatorOverloading/obj/Debug/net8.0/OperatorOverloading.genruntimeconfig.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_7/OperatorOverloading/obj/Debug/net8.0/ref/OperatorOverloading.dll

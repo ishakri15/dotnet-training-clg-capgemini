@@ -1,0 +1,15 @@
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_7/FunctionOverloading/bin/Debug/net8.0/FunctionOverloading
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_7/FunctionOverloading/bin/Debug/net8.0/FunctionOverloading.deps.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_7/FunctionOverloading/bin/Debug/net8.0/FunctionOverloading.runtimeconfig.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_7/FunctionOverloading/bin/Debug/net8.0/FunctionOverloading.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_7/FunctionOverloading/bin/Debug/net8.0/FunctionOverloading.pdb
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_7/FunctionOverloading/obj/Debug/net8.0/FunctionOverloading.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_7/FunctionOverloading/obj/Debug/net8.0/FunctionOverloading.AssemblyInfoInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_7/FunctionOverloading/obj/Debug/net8.0/FunctionOverloading.AssemblyInfo.cs
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_7/FunctionOverloading/obj/Debug/net8.0/FunctionOverloading.csproj.CoreCompileInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_7/FunctionOverloading/obj/Debug/net8.0/FunctionOverloading.sourcelink.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_7/FunctionOverloading/obj/Debug/net8.0/FunctionOverloading.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_7/FunctionOverloading/obj/Debug/net8.0/refint/FunctionOverloading.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_7/FunctionOverloading/obj/Debug/net8.0/FunctionOverloading.pdb
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_7/FunctionOverloading/obj/Debug/net8.0/FunctionOverloading.genruntimeconfig.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_7/FunctionOverloading/obj/Debug/net8.0/ref/FunctionOverloading.dll
