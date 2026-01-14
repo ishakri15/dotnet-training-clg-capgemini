@@ -1,0 +1,15 @@
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/LambdaUsingDelegate/bin/Debug/net8.0/LambdaUsingDelegate
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/LambdaUsingDelegate/bin/Debug/net8.0/LambdaUsingDelegate.deps.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/LambdaUsingDelegate/bin/Debug/net8.0/LambdaUsingDelegate.runtimeconfig.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/LambdaUsingDelegate/bin/Debug/net8.0/LambdaUsingDelegate.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/LambdaUsingDelegate/bin/Debug/net8.0/LambdaUsingDelegate.pdb
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/LambdaUsingDelegate/obj/Debug/net8.0/LambdaUsingDelegate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/LambdaUsingDelegate/obj/Debug/net8.0/LambdaUsingDelegate.AssemblyInfoInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/LambdaUsingDelegate/obj/Debug/net8.0/LambdaUsingDelegate.AssemblyInfo.cs
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/LambdaUsingDelegate/obj/Debug/net8.0/LambdaUsingDelegate.csproj.CoreCompileInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/LambdaUsingDelegate/obj/Debug/net8.0/LambdaUsingDelegate.sourcelink.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/LambdaUsingDelegate/obj/Debug/net8.0/LambdaUsingDelegate.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/LambdaUsingDelegate/obj/Debug/net8.0/refint/LambdaUsingDelegate.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/LambdaUsingDelegate/obj/Debug/net8.0/LambdaUsingDelegate.pdb
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/LambdaUsingDelegate/obj/Debug/net8.0/LambdaUsingDelegate.genruntimeconfig.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/LambdaUsingDelegate/obj/Debug/net8.0/ref/LambdaUsingDelegate.dll
