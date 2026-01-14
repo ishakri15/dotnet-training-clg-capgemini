@@ -1,0 +1,15 @@
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/WriteOnlysetMethodsDemo/bin/Debug/net8.0/WriteOnlysetMethodsDemo
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/WriteOnlysetMethodsDemo/bin/Debug/net8.0/WriteOnlysetMethodsDemo.deps.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/WriteOnlysetMethodsDemo/bin/Debug/net8.0/WriteOnlysetMethodsDemo.runtimeconfig.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/WriteOnlysetMethodsDemo/bin/Debug/net8.0/WriteOnlysetMethodsDemo.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/WriteOnlysetMethodsDemo/bin/Debug/net8.0/WriteOnlysetMethodsDemo.pdb
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/WriteOnlysetMethodsDemo/obj/Debug/net8.0/WriteOnlysetMethodsDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/WriteOnlysetMethodsDemo/obj/Debug/net8.0/WriteOnlysetMethodsDemo.AssemblyInfoInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/WriteOnlysetMethodsDemo/obj/Debug/net8.0/WriteOnlysetMethodsDemo.AssemblyInfo.cs
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/WriteOnlysetMethodsDemo/obj/Debug/net8.0/WriteOnlysetMethodsDemo.csproj.CoreCompileInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/WriteOnlysetMethodsDemo/obj/Debug/net8.0/WriteOnlysetMethodsDemo.sourcelink.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/WriteOnlysetMethodsDemo/obj/Debug/net8.0/WriteOnlysetMethodsDemo.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/WriteOnlysetMethodsDemo/obj/Debug/net8.0/refint/WriteOnlysetMethodsDemo.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/WriteOnlysetMethodsDemo/obj/Debug/net8.0/WriteOnlysetMethodsDemo.pdb
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/WriteOnlysetMethodsDemo/obj/Debug/net8.0/WriteOnlysetMethodsDemo.genruntimeconfig.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/WriteOnlysetMethodsDemo/obj/Debug/net8.0/ref/WriteOnlysetMethodsDemo.dll

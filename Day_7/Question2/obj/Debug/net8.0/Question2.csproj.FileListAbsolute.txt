@@ -1,0 +1,15 @@
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_7/Question2/bin/Debug/net8.0/Question2
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_7/Question2/bin/Debug/net8.0/Question2.deps.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_7/Question2/bin/Debug/net8.0/Question2.runtimeconfig.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_7/Question2/bin/Debug/net8.0/Question2.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_7/Question2/bin/Debug/net8.0/Question2.pdb
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_7/Question2/obj/Debug/net8.0/Question2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_7/Question2/obj/Debug/net8.0/Question2.AssemblyInfoInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_7/Question2/obj/Debug/net8.0/Question2.AssemblyInfo.cs
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_7/Question2/obj/Debug/net8.0/Question2.csproj.CoreCompileInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_7/Question2/obj/Debug/net8.0/Question2.sourcelink.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_7/Question2/obj/Debug/net8.0/Question2.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_7/Question2/obj/Debug/net8.0/refint/Question2.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_7/Question2/obj/Debug/net8.0/Question2.pdb
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_7/Question2/obj/Debug/net8.0/Question2.genruntimeconfig.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_7/Question2/obj/Debug/net8.0/ref/Question2.dll

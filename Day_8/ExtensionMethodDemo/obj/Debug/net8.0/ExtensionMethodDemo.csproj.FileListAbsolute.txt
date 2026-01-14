@@ -1,0 +1,15 @@
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/ExtensionMethodDemo/bin/Debug/net8.0/ExtensionMethodDemo
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/ExtensionMethodDemo/bin/Debug/net8.0/ExtensionMethodDemo.deps.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/ExtensionMethodDemo/bin/Debug/net8.0/ExtensionMethodDemo.runtimeconfig.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/ExtensionMethodDemo/bin/Debug/net8.0/ExtensionMethodDemo.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/ExtensionMethodDemo/bin/Debug/net8.0/ExtensionMethodDemo.pdb
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/ExtensionMethodDemo/obj/Debug/net8.0/ExtensionMethodDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/ExtensionMethodDemo/obj/Debug/net8.0/ExtensionMethodDemo.AssemblyInfoInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/ExtensionMethodDemo/obj/Debug/net8.0/ExtensionMethodDemo.AssemblyInfo.cs
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/ExtensionMethodDemo/obj/Debug/net8.0/ExtensionMethodDemo.csproj.CoreCompileInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/ExtensionMethodDemo/obj/Debug/net8.0/ExtensionMethodDemo.sourcelink.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/ExtensionMethodDemo/obj/Debug/net8.0/ExtensionMethodDemo.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/ExtensionMethodDemo/obj/Debug/net8.0/refint/ExtensionMethodDemo.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/ExtensionMethodDemo/obj/Debug/net8.0/ExtensionMethodDemo.pdb
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/ExtensionMethodDemo/obj/Debug/net8.0/ExtensionMethodDemo.genruntimeconfig.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/ExtensionMethodDemo/obj/Debug/net8.0/ref/ExtensionMethodDemo.dll

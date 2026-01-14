@@ -1,0 +1,15 @@
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/EnumDemo/bin/Debug/net8.0/EnumDemo
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/EnumDemo/bin/Debug/net8.0/EnumDemo.deps.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/EnumDemo/bin/Debug/net8.0/EnumDemo.runtimeconfig.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/EnumDemo/bin/Debug/net8.0/EnumDemo.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/EnumDemo/bin/Debug/net8.0/EnumDemo.pdb
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/EnumDemo/obj/Debug/net8.0/EnumDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/EnumDemo/obj/Debug/net8.0/EnumDemo.AssemblyInfoInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/EnumDemo/obj/Debug/net8.0/EnumDemo.AssemblyInfo.cs
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/EnumDemo/obj/Debug/net8.0/EnumDemo.csproj.CoreCompileInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/EnumDemo/obj/Debug/net8.0/EnumDemo.sourcelink.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/EnumDemo/obj/Debug/net8.0/EnumDemo.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/EnumDemo/obj/Debug/net8.0/refint/EnumDemo.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/EnumDemo/obj/Debug/net8.0/EnumDemo.pdb
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/EnumDemo/obj/Debug/net8.0/EnumDemo.genruntimeconfig.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/EnumDemo/obj/Debug/net8.0/ref/EnumDemo.dll

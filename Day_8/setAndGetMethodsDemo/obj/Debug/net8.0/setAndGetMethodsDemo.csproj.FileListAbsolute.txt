@@ -1,0 +1,15 @@
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/setAndGetMethodsDemo/bin/Debug/net8.0/setAndGetMethodsDemo
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/setAndGetMethodsDemo/bin/Debug/net8.0/setAndGetMethodsDemo.deps.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/setAndGetMethodsDemo/bin/Debug/net8.0/setAndGetMethodsDemo.runtimeconfig.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/setAndGetMethodsDemo/bin/Debug/net8.0/setAndGetMethodsDemo.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/setAndGetMethodsDemo/bin/Debug/net8.0/setAndGetMethodsDemo.pdb
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/setAndGetMethodsDemo/obj/Debug/net8.0/setAndGetMethodsDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/setAndGetMethodsDemo/obj/Debug/net8.0/setAndGetMethodsDemo.AssemblyInfoInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/setAndGetMethodsDemo/obj/Debug/net8.0/setAndGetMethodsDemo.AssemblyInfo.cs
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/setAndGetMethodsDemo/obj/Debug/net8.0/setAndGetMethodsDemo.csproj.CoreCompileInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/setAndGetMethodsDemo/obj/Debug/net8.0/setAndGetMethodsDemo.sourcelink.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/setAndGetMethodsDemo/obj/Debug/net8.0/setAndGetMethodsDemo.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/setAndGetMethodsDemo/obj/Debug/net8.0/refint/setAndGetMethodsDemo.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/setAndGetMethodsDemo/obj/Debug/net8.0/setAndGetMethodsDemo.pdb
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/setAndGetMethodsDemo/obj/Debug/net8.0/setAndGetMethodsDemo.genruntimeconfig.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/setAndGetMethodsDemo/obj/Debug/net8.0/ref/setAndGetMethodsDemo.dll
