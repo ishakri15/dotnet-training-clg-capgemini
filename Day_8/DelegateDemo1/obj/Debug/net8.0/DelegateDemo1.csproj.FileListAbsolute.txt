@@ -1,0 +1,15 @@
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/DelegateDemo1/bin/Debug/net8.0/DelegateDemo1
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/DelegateDemo1/bin/Debug/net8.0/DelegateDemo1.deps.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/DelegateDemo1/bin/Debug/net8.0/DelegateDemo1.runtimeconfig.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/DelegateDemo1/bin/Debug/net8.0/DelegateDemo1.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/DelegateDemo1/bin/Debug/net8.0/DelegateDemo1.pdb
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/DelegateDemo1/obj/Debug/net8.0/DelegateDemo1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/DelegateDemo1/obj/Debug/net8.0/DelegateDemo1.AssemblyInfoInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/DelegateDemo1/obj/Debug/net8.0/DelegateDemo1.AssemblyInfo.cs
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/DelegateDemo1/obj/Debug/net8.0/DelegateDemo1.csproj.CoreCompileInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/DelegateDemo1/obj/Debug/net8.0/DelegateDemo1.sourcelink.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/DelegateDemo1/obj/Debug/net8.0/DelegateDemo1.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/DelegateDemo1/obj/Debug/net8.0/refint/DelegateDemo1.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/DelegateDemo1/obj/Debug/net8.0/DelegateDemo1.pdb
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/DelegateDemo1/obj/Debug/net8.0/DelegateDemo1.genruntimeconfig.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/DelegateDemo1/obj/Debug/net8.0/ref/DelegateDemo1.dll

@@ -1,0 +1,15 @@
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/AnonymousUsingDelegate/bin/Debug/net8.0/AnonymousUsingDelegate
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/AnonymousUsingDelegate/bin/Debug/net8.0/AnonymousUsingDelegate.deps.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/AnonymousUsingDelegate/bin/Debug/net8.0/AnonymousUsingDelegate.runtimeconfig.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/AnonymousUsingDelegate/bin/Debug/net8.0/AnonymousUsingDelegate.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/AnonymousUsingDelegate/bin/Debug/net8.0/AnonymousUsingDelegate.pdb
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/AnonymousUsingDelegate/obj/Debug/net8.0/AnonymousUsingDelegate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/AnonymousUsingDelegate/obj/Debug/net8.0/AnonymousUsingDelegate.AssemblyInfoInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/AnonymousUsingDelegate/obj/Debug/net8.0/AnonymousUsingDelegate.AssemblyInfo.cs
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/AnonymousUsingDelegate/obj/Debug/net8.0/AnonymousUsingDelegate.csproj.CoreCompileInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/AnonymousUsingDelegate/obj/Debug/net8.0/AnonymousUsingDelegate.sourcelink.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/AnonymousUsingDelegate/obj/Debug/net8.0/AnonymousUsingDelegate.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/AnonymousUsingDelegate/obj/Debug/net8.0/refint/AnonymousUsingDelegate.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/AnonymousUsingDelegate/obj/Debug/net8.0/AnonymousUsingDelegate.pdb
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/AnonymousUsingDelegate/obj/Debug/net8.0/AnonymousUsingDelegate.genruntimeconfig.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_8/AnonymousUsingDelegate/obj/Debug/net8.0/ref/AnonymousUsingDelegate.dll
