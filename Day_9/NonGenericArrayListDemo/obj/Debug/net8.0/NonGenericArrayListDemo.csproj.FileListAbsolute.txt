@@ -1,0 +1,15 @@
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/NonGenericArrayListDemo/bin/Debug/net8.0/NonGenericArrayListDemo
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/NonGenericArrayListDemo/bin/Debug/net8.0/NonGenericArrayListDemo.deps.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/NonGenericArrayListDemo/bin/Debug/net8.0/NonGenericArrayListDemo.runtimeconfig.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/NonGenericArrayListDemo/bin/Debug/net8.0/NonGenericArrayListDemo.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/NonGenericArrayListDemo/bin/Debug/net8.0/NonGenericArrayListDemo.pdb
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/NonGenericArrayListDemo/obj/Debug/net8.0/NonGenericArrayListDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/NonGenericArrayListDemo/obj/Debug/net8.0/NonGenericArrayListDemo.AssemblyInfoInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/NonGenericArrayListDemo/obj/Debug/net8.0/NonGenericArrayListDemo.AssemblyInfo.cs
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/NonGenericArrayListDemo/obj/Debug/net8.0/NonGenericArrayListDemo.csproj.CoreCompileInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/NonGenericArrayListDemo/obj/Debug/net8.0/NonGenericArrayListDemo.sourcelink.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/NonGenericArrayListDemo/obj/Debug/net8.0/NonGenericArrayListDemo.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/NonGenericArrayListDemo/obj/Debug/net8.0/refint/NonGenericArrayListDemo.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/NonGenericArrayListDemo/obj/Debug/net8.0/NonGenericArrayListDemo.pdb
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/NonGenericArrayListDemo/obj/Debug/net8.0/NonGenericArrayListDemo.genruntimeconfig.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/NonGenericArrayListDemo/obj/Debug/net8.0/ref/NonGenericArrayListDemo.dll

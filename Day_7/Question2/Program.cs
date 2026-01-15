@@ -40,6 +40,7 @@ class PhysicalProduct : Product, IDeliverable
 }
 class DigitalProduct : Product, IDeliverable
 {
+    //public double fileSizeinMb;
     public override double CalculateDiscountedPrice(double Price)
     {
         return Price - Price * 0.05;

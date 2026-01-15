@@ -1,0 +1,15 @@
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/IsAsDemo/bin/Debug/net8.0/IsAsDemo
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/IsAsDemo/bin/Debug/net8.0/IsAsDemo.deps.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/IsAsDemo/bin/Debug/net8.0/IsAsDemo.runtimeconfig.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/IsAsDemo/bin/Debug/net8.0/IsAsDemo.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/IsAsDemo/bin/Debug/net8.0/IsAsDemo.pdb
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/IsAsDemo/obj/Debug/net8.0/IsAsDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/IsAsDemo/obj/Debug/net8.0/IsAsDemo.AssemblyInfoInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/IsAsDemo/obj/Debug/net8.0/IsAsDemo.AssemblyInfo.cs
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/IsAsDemo/obj/Debug/net8.0/IsAsDemo.csproj.CoreCompileInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/IsAsDemo/obj/Debug/net8.0/IsAsDemo.sourcelink.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/IsAsDemo/obj/Debug/net8.0/IsAsDemo.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/IsAsDemo/obj/Debug/net8.0/refint/IsAsDemo.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/IsAsDemo/obj/Debug/net8.0/IsAsDemo.pdb
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/IsAsDemo/obj/Debug/net8.0/IsAsDemo.genruntimeconfig.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/IsAsDemo/obj/Debug/net8.0/ref/IsAsDemo.dll

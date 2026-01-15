@@ -1,0 +1,15 @@
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/NonGenericHashTable/bin/Debug/net8.0/NonGenericHashTable
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/NonGenericHashTable/bin/Debug/net8.0/NonGenericHashTable.deps.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/NonGenericHashTable/bin/Debug/net8.0/NonGenericHashTable.runtimeconfig.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/NonGenericHashTable/bin/Debug/net8.0/NonGenericHashTable.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/NonGenericHashTable/bin/Debug/net8.0/NonGenericHashTable.pdb
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/NonGenericHashTable/obj/Debug/net8.0/NonGenericHashTable.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/NonGenericHashTable/obj/Debug/net8.0/NonGenericHashTable.AssemblyInfoInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/NonGenericHashTable/obj/Debug/net8.0/NonGenericHashTable.AssemblyInfo.cs
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/NonGenericHashTable/obj/Debug/net8.0/NonGenericHashTable.csproj.CoreCompileInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/NonGenericHashTable/obj/Debug/net8.0/NonGenericHashTable.sourcelink.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/NonGenericHashTable/obj/Debug/net8.0/NonGenericHashTable.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/NonGenericHashTable/obj/Debug/net8.0/refint/NonGenericHashTable.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/NonGenericHashTable/obj/Debug/net8.0/NonGenericHashTable.pdb
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/NonGenericHashTable/obj/Debug/net8.0/NonGenericHashTable.genruntimeconfig.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/NonGenericHashTable/obj/Debug/net8.0/ref/NonGenericHashTable.dll

@@ -1,0 +1,15 @@
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/paramsDemo/bin/Debug/net8.0/paramsDemo
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/paramsDemo/bin/Debug/net8.0/paramsDemo.deps.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/paramsDemo/bin/Debug/net8.0/paramsDemo.runtimeconfig.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/paramsDemo/bin/Debug/net8.0/paramsDemo.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/paramsDemo/bin/Debug/net8.0/paramsDemo.pdb
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/paramsDemo/obj/Debug/net8.0/paramsDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/paramsDemo/obj/Debug/net8.0/paramsDemo.AssemblyInfoInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/paramsDemo/obj/Debug/net8.0/paramsDemo.AssemblyInfo.cs
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/paramsDemo/obj/Debug/net8.0/paramsDemo.csproj.CoreCompileInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/paramsDemo/obj/Debug/net8.0/paramsDemo.sourcelink.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/paramsDemo/obj/Debug/net8.0/paramsDemo.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/paramsDemo/obj/Debug/net8.0/refint/paramsDemo.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/paramsDemo/obj/Debug/net8.0/paramsDemo.pdb
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/paramsDemo/obj/Debug/net8.0/paramsDemo.genruntimeconfig.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/paramsDemo/obj/Debug/net8.0/ref/paramsDemo.dll

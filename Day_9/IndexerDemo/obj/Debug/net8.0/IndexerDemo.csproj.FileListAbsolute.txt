@@ -1,0 +1,15 @@
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/IndexerDemo/bin/Debug/net8.0/IndexerDemo
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/IndexerDemo/bin/Debug/net8.0/IndexerDemo.deps.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/IndexerDemo/bin/Debug/net8.0/IndexerDemo.runtimeconfig.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/IndexerDemo/bin/Debug/net8.0/IndexerDemo.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/IndexerDemo/bin/Debug/net8.0/IndexerDemo.pdb
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/IndexerDemo/obj/Debug/net8.0/IndexerDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/IndexerDemo/obj/Debug/net8.0/IndexerDemo.AssemblyInfoInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/IndexerDemo/obj/Debug/net8.0/IndexerDemo.AssemblyInfo.cs
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/IndexerDemo/obj/Debug/net8.0/IndexerDemo.csproj.CoreCompileInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/IndexerDemo/obj/Debug/net8.0/IndexerDemo.sourcelink.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/IndexerDemo/obj/Debug/net8.0/IndexerDemo.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/IndexerDemo/obj/Debug/net8.0/refint/IndexerDemo.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/IndexerDemo/obj/Debug/net8.0/IndexerDemo.pdb
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/IndexerDemo/obj/Debug/net8.0/IndexerDemo.genruntimeconfig.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/IndexerDemo/obj/Debug/net8.0/ref/IndexerDemo.dll

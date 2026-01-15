@@ -1,0 +1,15 @@
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/PartialClassDemo/bin/Debug/net8.0/PartialClassDemo
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/PartialClassDemo/bin/Debug/net8.0/PartialClassDemo.deps.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/PartialClassDemo/bin/Debug/net8.0/PartialClassDemo.runtimeconfig.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/PartialClassDemo/bin/Debug/net8.0/PartialClassDemo.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/PartialClassDemo/bin/Debug/net8.0/PartialClassDemo.pdb
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/PartialClassDemo/obj/Debug/net8.0/PartialClassDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/PartialClassDemo/obj/Debug/net8.0/PartialClassDemo.AssemblyInfoInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/PartialClassDemo/obj/Debug/net8.0/PartialClassDemo.AssemblyInfo.cs
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/PartialClassDemo/obj/Debug/net8.0/PartialClassDemo.csproj.CoreCompileInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/PartialClassDemo/obj/Debug/net8.0/PartialClassDemo.sourcelink.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/PartialClassDemo/obj/Debug/net8.0/PartialClassDemo.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/PartialClassDemo/obj/Debug/net8.0/refint/PartialClassDemo.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/PartialClassDemo/obj/Debug/net8.0/PartialClassDemo.pdb
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/PartialClassDemo/obj/Debug/net8.0/PartialClassDemo.genruntimeconfig.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/PartialClassDemo/obj/Debug/net8.0/ref/PartialClassDemo.dll

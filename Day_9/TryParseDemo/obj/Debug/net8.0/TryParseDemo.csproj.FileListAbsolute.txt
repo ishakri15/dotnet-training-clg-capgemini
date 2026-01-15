@@ -1,0 +1,15 @@
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/TryParseDemo/bin/Debug/net8.0/TryParseDemo
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/TryParseDemo/bin/Debug/net8.0/TryParseDemo.deps.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/TryParseDemo/bin/Debug/net8.0/TryParseDemo.runtimeconfig.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/TryParseDemo/bin/Debug/net8.0/TryParseDemo.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/TryParseDemo/bin/Debug/net8.0/TryParseDemo.pdb
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/TryParseDemo/obj/Debug/net8.0/TryParseDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/TryParseDemo/obj/Debug/net8.0/TryParseDemo.AssemblyInfoInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/TryParseDemo/obj/Debug/net8.0/TryParseDemo.AssemblyInfo.cs
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/TryParseDemo/obj/Debug/net8.0/TryParseDemo.csproj.CoreCompileInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/TryParseDemo/obj/Debug/net8.0/TryParseDemo.sourcelink.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/TryParseDemo/obj/Debug/net8.0/TryParseDemo.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/TryParseDemo/obj/Debug/net8.0/refint/TryParseDemo.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/TryParseDemo/obj/Debug/net8.0/TryParseDemo.pdb
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/TryParseDemo/obj/Debug/net8.0/TryParseDemo.genruntimeconfig.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/TryParseDemo/obj/Debug/net8.0/ref/TryParseDemo.dll

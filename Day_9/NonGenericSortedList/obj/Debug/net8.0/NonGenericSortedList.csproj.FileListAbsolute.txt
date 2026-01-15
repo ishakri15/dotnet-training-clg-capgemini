@@ -1,0 +1,15 @@
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/NonGenericSortedList/bin/Debug/net8.0/NonGenericSortedList
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/NonGenericSortedList/bin/Debug/net8.0/NonGenericSortedList.deps.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/NonGenericSortedList/bin/Debug/net8.0/NonGenericSortedList.runtimeconfig.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/NonGenericSortedList/bin/Debug/net8.0/NonGenericSortedList.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/NonGenericSortedList/bin/Debug/net8.0/NonGenericSortedList.pdb
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/NonGenericSortedList/obj/Debug/net8.0/NonGenericSortedList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/NonGenericSortedList/obj/Debug/net8.0/NonGenericSortedList.AssemblyInfoInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/NonGenericSortedList/obj/Debug/net8.0/NonGenericSortedList.AssemblyInfo.cs
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/NonGenericSortedList/obj/Debug/net8.0/NonGenericSortedList.csproj.CoreCompileInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/NonGenericSortedList/obj/Debug/net8.0/NonGenericSortedList.sourcelink.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/NonGenericSortedList/obj/Debug/net8.0/NonGenericSortedList.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/NonGenericSortedList/obj/Debug/net8.0/refint/NonGenericSortedList.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/NonGenericSortedList/obj/Debug/net8.0/NonGenericSortedList.pdb
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/NonGenericSortedList/obj/Debug/net8.0/NonGenericSortedList.genruntimeconfig.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/NonGenericSortedList/obj/Debug/net8.0/ref/NonGenericSortedList.dll

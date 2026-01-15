@@ -1,0 +1,15 @@
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/GarbageCollectorDemo1/bin/Debug/net8.0/GarbageCollectorDemo1
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/GarbageCollectorDemo1/bin/Debug/net8.0/GarbageCollectorDemo1.deps.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/GarbageCollectorDemo1/bin/Debug/net8.0/GarbageCollectorDemo1.runtimeconfig.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/GarbageCollectorDemo1/bin/Debug/net8.0/GarbageCollectorDemo1.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/GarbageCollectorDemo1/bin/Debug/net8.0/GarbageCollectorDemo1.pdb
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/GarbageCollectorDemo1/obj/Debug/net8.0/GarbageCollectorDemo1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/GarbageCollectorDemo1/obj/Debug/net8.0/GarbageCollectorDemo1.AssemblyInfoInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/GarbageCollectorDemo1/obj/Debug/net8.0/GarbageCollectorDemo1.AssemblyInfo.cs
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/GarbageCollectorDemo1/obj/Debug/net8.0/GarbageCollectorDemo1.csproj.CoreCompileInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/GarbageCollectorDemo1/obj/Debug/net8.0/GarbageCollectorDemo1.sourcelink.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/GarbageCollectorDemo1/obj/Debug/net8.0/GarbageCollectorDemo1.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/GarbageCollectorDemo1/obj/Debug/net8.0/refint/GarbageCollectorDemo1.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/GarbageCollectorDemo1/obj/Debug/net8.0/GarbageCollectorDemo1.pdb
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/GarbageCollectorDemo1/obj/Debug/net8.0/GarbageCollectorDemo1.genruntimeconfig.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_9/GarbageCollectorDemo1/obj/Debug/net8.0/ref/GarbageCollectorDemo1.dll
