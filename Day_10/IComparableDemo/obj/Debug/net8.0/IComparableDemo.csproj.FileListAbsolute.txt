@@ -1,0 +1,15 @@
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_10/IComparableDemo/bin/Debug/net8.0/IComparableDemo
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_10/IComparableDemo/bin/Debug/net8.0/IComparableDemo.deps.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_10/IComparableDemo/bin/Debug/net8.0/IComparableDemo.runtimeconfig.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_10/IComparableDemo/bin/Debug/net8.0/IComparableDemo.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_10/IComparableDemo/bin/Debug/net8.0/IComparableDemo.pdb
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_10/IComparableDemo/obj/Debug/net8.0/IComparableDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_10/IComparableDemo/obj/Debug/net8.0/IComparableDemo.AssemblyInfoInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_10/IComparableDemo/obj/Debug/net8.0/IComparableDemo.AssemblyInfo.cs
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_10/IComparableDemo/obj/Debug/net8.0/IComparableDemo.csproj.CoreCompileInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_10/IComparableDemo/obj/Debug/net8.0/IComparableDemo.sourcelink.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_10/IComparableDemo/obj/Debug/net8.0/IComparableDemo.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_10/IComparableDemo/obj/Debug/net8.0/refint/IComparableDemo.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_10/IComparableDemo/obj/Debug/net8.0/IComparableDemo.pdb
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_10/IComparableDemo/obj/Debug/net8.0/IComparableDemo.genruntimeconfig.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_10/IComparableDemo/obj/Debug/net8.0/ref/IComparableDemo.dll

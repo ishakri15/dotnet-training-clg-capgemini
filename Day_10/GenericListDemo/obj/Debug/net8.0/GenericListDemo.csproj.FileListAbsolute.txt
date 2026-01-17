@@ -1,0 +1,15 @@
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_10/GenericListDemo/bin/Debug/net8.0/GenericListDemo
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_10/GenericListDemo/bin/Debug/net8.0/GenericListDemo.deps.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_10/GenericListDemo/bin/Debug/net8.0/GenericListDemo.runtimeconfig.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_10/GenericListDemo/bin/Debug/net8.0/GenericListDemo.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_10/GenericListDemo/bin/Debug/net8.0/GenericListDemo.pdb
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_10/GenericListDemo/obj/Debug/net8.0/GenericListDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_10/GenericListDemo/obj/Debug/net8.0/GenericListDemo.AssemblyInfoInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_10/GenericListDemo/obj/Debug/net8.0/GenericListDemo.AssemblyInfo.cs
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_10/GenericListDemo/obj/Debug/net8.0/GenericListDemo.csproj.CoreCompileInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_10/GenericListDemo/obj/Debug/net8.0/GenericListDemo.sourcelink.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_10/GenericListDemo/obj/Debug/net8.0/GenericListDemo.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_10/GenericListDemo/obj/Debug/net8.0/refint/GenericListDemo.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_10/GenericListDemo/obj/Debug/net8.0/GenericListDemo.pdb
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_10/GenericListDemo/obj/Debug/net8.0/GenericListDemo.genruntimeconfig.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_10/GenericListDemo/obj/Debug/net8.0/ref/GenericListDemo.dll

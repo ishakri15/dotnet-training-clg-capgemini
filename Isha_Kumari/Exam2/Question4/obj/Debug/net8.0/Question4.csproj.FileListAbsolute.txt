@@ -1,0 +1,14 @@
+/Users/dev/Desktop/Capgemini_stuffs/Isha_Kumari/Exam2/Question4/bin/Debug/net8.0/Question4
+/Users/dev/Desktop/Capgemini_stuffs/Isha_Kumari/Exam2/Question4/bin/Debug/net8.0/Question4.deps.json
+/Users/dev/Desktop/Capgemini_stuffs/Isha_Kumari/Exam2/Question4/bin/Debug/net8.0/Question4.runtimeconfig.json
+/Users/dev/Desktop/Capgemini_stuffs/Isha_Kumari/Exam2/Question4/bin/Debug/net8.0/Question4.dll
+/Users/dev/Desktop/Capgemini_stuffs/Isha_Kumari/Exam2/Question4/bin/Debug/net8.0/Question4.pdb
+/Users/dev/Desktop/Capgemini_stuffs/Isha_Kumari/Exam2/Question4/obj/Debug/net8.0/Question4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dev/Desktop/Capgemini_stuffs/Isha_Kumari/Exam2/Question4/obj/Debug/net8.0/Question4.AssemblyInfoInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/Isha_Kumari/Exam2/Question4/obj/Debug/net8.0/Question4.AssemblyInfo.cs
+/Users/dev/Desktop/Capgemini_stuffs/Isha_Kumari/Exam2/Question4/obj/Debug/net8.0/Question4.csproj.CoreCompileInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/Isha_Kumari/Exam2/Question4/obj/Debug/net8.0/Question4.dll
+/Users/dev/Desktop/Capgemini_stuffs/Isha_Kumari/Exam2/Question4/obj/Debug/net8.0/refint/Question4.dll
+/Users/dev/Desktop/Capgemini_stuffs/Isha_Kumari/Exam2/Question4/obj/Debug/net8.0/Question4.pdb
+/Users/dev/Desktop/Capgemini_stuffs/Isha_Kumari/Exam2/Question4/obj/Debug/net8.0/Question4.genruntimeconfig.cache
+/Users/dev/Desktop/Capgemini_stuffs/Isha_Kumari/Exam2/Question4/obj/Debug/net8.0/ref/Question4.dll

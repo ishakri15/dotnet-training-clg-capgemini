@@ -1,0 +1,15 @@
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_10/GenericDictionaryDemo/bin/Debug/net8.0/GenericDictionaryDemo
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_10/GenericDictionaryDemo/bin/Debug/net8.0/GenericDictionaryDemo.deps.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_10/GenericDictionaryDemo/bin/Debug/net8.0/GenericDictionaryDemo.runtimeconfig.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_10/GenericDictionaryDemo/bin/Debug/net8.0/GenericDictionaryDemo.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_10/GenericDictionaryDemo/bin/Debug/net8.0/GenericDictionaryDemo.pdb
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_10/GenericDictionaryDemo/obj/Debug/net8.0/GenericDictionaryDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_10/GenericDictionaryDemo/obj/Debug/net8.0/GenericDictionaryDemo.AssemblyInfoInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_10/GenericDictionaryDemo/obj/Debug/net8.0/GenericDictionaryDemo.AssemblyInfo.cs
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_10/GenericDictionaryDemo/obj/Debug/net8.0/GenericDictionaryDemo.csproj.CoreCompileInputs.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_10/GenericDictionaryDemo/obj/Debug/net8.0/GenericDictionaryDemo.sourcelink.json
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_10/GenericDictionaryDemo/obj/Debug/net8.0/GenericDictionaryDemo.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_10/GenericDictionaryDemo/obj/Debug/net8.0/refint/GenericDictionaryDemo.dll
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_10/GenericDictionaryDemo/obj/Debug/net8.0/GenericDictionaryDemo.pdb
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_10/GenericDictionaryDemo/obj/Debug/net8.0/GenericDictionaryDemo.genruntimeconfig.cache
+/Users/dev/Desktop/Capgemini_stuffs/mac_student/Day_10/GenericDictionaryDemo/obj/Debug/net8.0/ref/GenericDictionaryDemo.dll
